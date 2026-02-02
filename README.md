@@ -49,7 +49,3 @@ The dataset was intentionally generated to reflect realistic hospital behavior w
 
 ## Tools
 Python · Pandas · NumPy · Matplotlib
-
----
-
-*This project demonstrates applied analytics, operational thinking, and communication of insights to non-technical stakeholders.*
